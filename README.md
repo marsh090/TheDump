@@ -4,11 +4,11 @@ Bem-vindo ao Labirinto Mágico, uma aventura emocionante escrita em Python! Este
 
 ## 📋 Índice
 
-- [Requisitos](#requisitos)
-- [Instalação](#instalação)
-- [Como Executar](#como-executar)
-- [Funcionalidades](#🌈Funcionalidades)
-- [Contribuição](#contribuição)
+- [Requisitos](#-requisitos)
+- [Instalação](#-instalação)
+- [Como Executar](#-como-executar)
+- [Funcionalidades](#-funcionalidades)
+- [Contribuição](#-contribuição)
 
 ## 🛠 Requisitos
 
