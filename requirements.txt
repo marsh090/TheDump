@@ -1,0 +1,6 @@
+PIL
+os
+winsound
+pyautogui
+mouse
+time
